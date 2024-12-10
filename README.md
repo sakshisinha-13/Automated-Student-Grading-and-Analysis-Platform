@@ -18,7 +18,9 @@ Total Marks: Calculated based on given weightage.
 Grades: Assigned dynamically based on thresholds.
 Scaled Grades: Adjusted to ensure fair distribution.
 
-![image](https://github.com/user-attachments/assets/acea9eb2-92d4-4a7d-bf80-484a2a815829
+
+![image](https://github.com/user-attachments/assets/c0b396e9-88de-4636-a59d-10001dcdcdf5)
+
 ![image](https://github.com/user-attachments/assets/673d53aa-b058-4ff1-b268-a0460be7cf0a)
 
 
